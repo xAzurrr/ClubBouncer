@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Club Bouncer Game - von Noah Nacar", "Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar.csproj", "{B423404B-9AB7-4507-9013-9048A85B8F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B423404B-9AB7-4507-9013-9048A85B8F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B423404B-9AB7-4507-9013-9048A85B8F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B423404B-9AB7-4507-9013-9048A85B8F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B423404B-9AB7-4507-9013-9048A85B8F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD71B37-4753-414D-BC26-2A46826A13EC}
+	EndGlobalSection
+EndGlobal

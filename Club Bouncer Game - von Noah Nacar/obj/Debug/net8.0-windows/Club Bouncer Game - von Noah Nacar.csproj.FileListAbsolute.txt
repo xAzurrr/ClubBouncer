@@ -1,0 +1,40 @@
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.exe
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.deps.json
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.runtimeconfig.json
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.pdb
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\App.g.cs
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar_MarkupCompile.cache
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar_MarkupCompile.lref
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.g.resources
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.AssemblyInfoInputs.cache
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.AssemblyInfo.cs
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\refint\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.pdb
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.genruntimeconfig.cache
+D:\VisualStudio2022\C# WPF\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\ref\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.exe
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.deps.json
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.runtimeconfig.json
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\bin\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.pdb
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\App.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar_MarkupCompile.cache
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar_MarkupCompile.lref
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.g.resources
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.AssemblyInfoInputs.cache
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.AssemblyInfo.cs
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\refint\Club Bouncer Game - von Noah Nacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.pdb
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\Club Bouncer Game - von Noah Nacar.genruntimeconfig.cache
+D:\VisualStudio2022\C# WPF\Projekte\Club Bouncer Game - von Noah Nacar\Club Bouncer Game - von Noah Nacar\obj\Debug\net8.0-windows\ref\Club Bouncer Game - von Noah Nacar.dll

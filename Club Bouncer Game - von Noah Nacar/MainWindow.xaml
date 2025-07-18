@@ -1,0 +1,31 @@
+﻿<Window x:Class="Club_Bouncer_Game___von_Noah_Nacar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Club_Bouncer_Game___von_Noah_Nacar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="525"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Background="AliceBlue" Foreground="Crimson"
+        FontWeight="UltraBlack">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" >
+            <TextBlock Text="x Club Bouncer Game x" FontSize="22" VerticalAlignment="Top" HorizontalAlignment="Center"
+                       Margin="0,0,0,20"/>
+            <TextBlock Name="txtGast" FontSize="18" TextWrapping="Wrap"
+                       TextAlignment="Center" 
+                       Foreground="Black"
+                       Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="btnReinlassen" Content="Reinlassen" Width="100" Click="btnReinlassen_Click" Margin="2" Background="LightGreen" />
+                <Button Name="btnAblehnen" Content="Ablehnen" Width="100" Click="btnAblehnen_Click"  Margin="2" Background="OrangeRed"/>
+            </StackPanel>
+
+            <TextBlock Name="txtStatus" FontSize="14" TextAlignment="Center" Foreground="Red" />
+            <TextBlock Name="txtLeben" FontSize="14" TextAlignment="Center"  />
+            <TextBlock Name="txtPunkte" FontSize="14" TextAlignment="Center" Foreground="Green" /> 
+        </StackPanel>
+    </Grid>
+</Window>
